@@ -18,6 +18,6 @@ AiNutri is a web-based application built using Streamlit that helps users analyz
   - ReportLab (for generating PDFs)
 - **Environment Management**: dotenv (for API keys and configurations)
 
-## the database can be found here you can access throught this link
+## the database can be found here, you can access through this link
 https://drive.google.com/file/d/1mbn1Td0Vke7sjIoChqcWU0rB7xKRlWq-/view?usp=sharing
 
